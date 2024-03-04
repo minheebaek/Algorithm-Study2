@@ -17,6 +17,7 @@
 - [**백민희**](https://github.com/minheebaek)
 - [**서승주**](https://github.com/seunzu)
 - [**배서진**](https://github.com/bsjin1122)
+- [**한슬기**](https://github.com/ssggii)
   
 ---
 | 주차 | 월 | 화 | 수 | 목 | 금 |
