@@ -11,7 +11,7 @@
   - 바킹독은 c++로 강의를 진행하므로 필요한대로 보충하고 빼면서 습득하면 됨. 
   - 매일 백준 문제를 푼 것과 리포지토리에 코드 올린 것을 챌린저스에 인증
   - 한 사람씩 돌아가면서 자신이 맡은 문제의 코드와 풀이 방식을 설명하고 질의응답. 한 사람당 최대 10분.
-  - https://www.acmicpc.net/problem/[문제번호]
+ 
 
 ---
 ## 스터디 참여 인원👩‍💻
@@ -47,3 +47,4 @@
 - 참고자료<br>
   -[바킹독 basic-algo-lecture](https://github.com/encrypted-def/basic-algo-lecture)<br>
 -[바킹독 워크북 리드미(풀어야하는 문제 표시됨)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) <br>
+- https://www.acmicpc.net/problem/[문제번호]  <br>
