@@ -32,7 +32,7 @@ public class Main {
 	}
 }
 
-// 모노스택 index를 넣어서 처리
+// 모노스택 index를 넣어서 처리, 문제보고 로직생각하기 어려움..
 import java.io.*;
 import java.util.*;
 
