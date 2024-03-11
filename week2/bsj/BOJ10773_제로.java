@@ -19,7 +19,7 @@ public class BOJ10773_제로 {
                 stack.push(queue.poll()); // 0이 아니면 queue에서 맨 앞 요소 제거
             }else{ // peek했을 때 0이면
                 queue.poll(); // 0을 빼고
-                stack.pop(); // stack에 담겨있던 0도 빼준다.
+                stack.pop(); // stack에 가장 최근의 숫자도 삭제
             }
         }
         // 스택 내의 요소를 순회하면서 더하기
