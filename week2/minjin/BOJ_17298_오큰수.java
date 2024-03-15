@@ -7,12 +7,12 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 /**
- * 1. BOJ 17928
+ * 1. BOJ 17298
  * 2. 스택
  * 3. 현재 값 기준으로 가장 최신값을 비교한다.
  * 4. 시간복잡도: O(N)
  */
-public class BOJ_17928_오큰수 {
+public class BOJ_17298_오큰수 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
@@ -28,7 +28,7 @@ public class BOJ_17928_오큰수 {
         }
 
         for (int i = 1; i <= N; i++) {
-            // 현재 값이 스택의 맨 위 수보다 크다면 바꾼다.
+            // 현재 값이 스택의 맨 위 수보다 크다면 해당 값을 현재 값으로 바꾼다.
             while (!stack.isEmpty() && A[stack.peek()] < A[i]) {
                 A[stack.pop()] = A[i];
             }
