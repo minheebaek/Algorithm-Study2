@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BOJ10026_적록색약 {
+public class BOJ7562_나이트의이동 {
     
     static int[] dx = {1, 2, 2, 1, -1, -2, -2, -1};
     static int[] dy = {2, 1, -1, -2, -2, -1, 1, 2};
